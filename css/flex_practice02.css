@@ -1,25 +1,9 @@
-.container1 {
-    width: 600px;
-    height: 110px;
-
-    display: flex;
-    justify-content: flex-start;
-    align-items: center;
-}
-.container2 {
-    width: 600px;
+.container {
+    width: 350px;
     height: 110px;
 
     display: flex;
     justify-content: center;
-    align-items: center;
-}
-.container3 {
-    width: 600px;
-    height: 110px;
-
-    display: flex;
-    justify-content: flex-end;
     align-items: center;
 }
 
