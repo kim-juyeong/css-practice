@@ -1,0 +1,17 @@
+.container {
+    width: 350px;
+    height: 110px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.content {
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+
+    background-color: pink;
+    border-radius: 5px;
+}
